@@ -35,10 +35,7 @@ CREATE TABLE `categories` (
 --
 
 INSERT INTO `categories` (`entity_id`, `name`, `description`) VALUES
-(1, 'Laptopuri', 'Iti doresti un laptop nou? Ai Livrare Gratuita si Finantare in Rate la laptopuri cumparate de la eMAG. Nu rata ofertele de astazi!'),
-(2, 'Telefoane Mobile', 'Iti doresti un telefon mobil nou, in rate? La eMAG, telefoanele mobile au preturi avantajoase. Cumpara acum si beneficiezi de Livrare Rapida si de Finantare in Rate.'),
-(3, 'Tablete', 'Oferte Tablete online la eMAG. Livrare rapida Gratuita pentru orice tableta. Preturi incepand de la numai 178.5. Finantare in rate.'),
-(4, 'Drone', 'Cumpara Drone de la eMAG la preturi avantajoase. Livrare Rapida. Nu rata promotiile zilei!');
+(1, 'Laptopuri', 'Iti doresti un laptop nou? Ai Livrare Gratuita si Finantare in Rate la laptopuri cumparate de la eMAG. Nu rata ofertele de astazi!');
 
 -- --------------------------------------------------------
 
