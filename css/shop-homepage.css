@@ -1,0 +1,58 @@
+body {
+    padding-top: 70px;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.carousel-holder {
+    margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+    border-radius: 4px;
+}
+
+.caption {
+    height: 150px;
+    overflow: hidden;
+}
+
+.caption h4 {
+    white-space: nowrap;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.ratings {
+    color: #d17581;
+}
+
+.thumbnail {
+    padding: 0 10px 10px 10px;
+    margin-right: 15px;
+}
+
+.thumbnail .caption {
+    padding: 0;
+}
+
+.thumbnail .caption h4 {
+    margin-top: 0;
+}
+
+.thumbnail .caption-full {
+    color: #333;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+#success_message{
+    display: none;
+}
